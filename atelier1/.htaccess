@@ -1,0 +1,4 @@
+AuthName "Accès protégé"
+AuthType Basic
+AuthUserFile /home/ropers/www/.htpasswd
+Require valid-user
